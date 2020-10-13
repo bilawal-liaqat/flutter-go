@@ -9,7 +9,6 @@
 .history
 .svn/
 *.lock
-.vscode
 .gradle
 .idea
 /local.properties
@@ -26,7 +25,6 @@
 .idea/
 
 # Visual Studio Code related
-.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -83,3 +81,6 @@ go-cli/pubspec.lock
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
